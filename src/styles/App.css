@@ -1,0 +1,29 @@
+* {
+    margin:0;
+    padding:0;
+    box-sizing: border-box;
+}
+
+#root {
+    padding:20px;
+}
+
+.inc {
+    border-radius:50%;
+    width: 45px;
+    height:45px;
+    background-color: #0b5eb8;
+    color:white;
+    border:none;
+    cursor:pointer;
+}
+
+.dec {
+    border-radius:50%;
+    width: 45px;
+    height:45px;
+    background-color: #e70527;
+    color:white;
+    border:none;
+    cursor:pointer;
+}
